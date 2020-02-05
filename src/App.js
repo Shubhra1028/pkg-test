@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React with Shubhra <span role="img" aria-label="victory" >✌🏻</span>
         </a>
       </header>
     </div>
